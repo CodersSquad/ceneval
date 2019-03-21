@@ -24,3 +24,6 @@ Slides and more
 - [Concurrency](https://drive.google.com/file/d/1ROmNNHKbEWdio65lqEavprYrrM-DEsOA/view?usp=sharing)
 - [Von Neumann Architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
 - [Von Neumann Programming Languages](https://en.wikipedia.org/wiki/Von_Neumann_programming_languages)
+- [CPU Scheduling](https://drive.google.com/file/d/1t093HXVtPNoPL7FIadDLVfhUrVDa7m2d/view?usp=sharing)
+- [Processes](https://drive.google.com/file/d/1Hro-B7NypN_AgNkPtFwiymENtTzPwP6S/view?usp=sharing)
+- [Threads](https://drive.google.com/file/d/1cUlIhV_G81jQ8-4zqYuC7rNOi4Bc7Ebf/view?usp=sharing)
